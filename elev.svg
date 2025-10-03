@@ -1,0 +1,123 @@
+<svg version="1.1" baseProfile="full"
+     width="1080" height="1200"
+     xmlns="http://www.w3.org/2000/svg">
+ <rect   x="60" y="585" width="7" height="585" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="67" y="592" width="22" height="577" style="fill:none;stroke:blue;stroke-width:1" />
+ <rect   x="420" y="592" width="22" height="577" style="fill:none;stroke:blue;stroke-width:1" />
+ <rect   x="442" y="585" width="7" height="585" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="67" y="585" width="375" height="7" style="fill:none;stroke:gray;stroke-width:1" />
+  <line   x1="60" y1="570" x2="450" y2="570" style="stroke:black;stroke-width:1" />
+  <line   x1="60" y1="570" x2="68" y2="566" style="stroke:black;stroke-width:1" />
+  <line   x1="60" y1="570" x2="68" y2="573" style="stroke:black;stroke-width:1" />
+  <line   x1="450" y1="570" x2="441" y2="566" style="stroke:black;stroke-width:1" />
+  <line   x1="450" y1="570" x2="441" y2="573" style="stroke:black;stroke-width:1" />
+  <text x="255" y="570" font-family="Verdana" text-anchor="middle" font-size="14">13.00</text>
+  <line   x1="90" y1="1125" x2="420" y2="1125" style="stroke:black;stroke-width:1" />
+  <line   x1="90" y1="1125" x2="98" y2="1121" style="stroke:black;stroke-width:1" />
+  <line   x1="90" y1="1125" x2="98" y2="1128" style="stroke:black;stroke-width:1" />
+  <line   x1="420" y1="1125" x2="411" y2="1121" style="stroke:black;stroke-width:1" />
+  <line   x1="420" y1="1125" x2="411" y2="1128" style="stroke:black;stroke-width:1" />
+  <text x="255" y="1125" font-family="Verdana" text-anchor="middle" font-size="14">11.00</text>
+  <line   x1="472" y1="1170" x2="472" y2="585" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="1170" x2="469" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="1170" x2="475" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="585" x2="469" y2="593" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="585" x2="475" y2="593" style="stroke:black;stroke-width:1" />
+  <text x="477" y="877" font-family="Verdana" font-size="14">19.50</text>
+  <line   x1="300" y1="1170" x2="300" y2="592" style="stroke:black;stroke-width:1" />
+  <line   x1="300" y1="1170" x2="296" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="300" y1="1170" x2="303" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="300" y1="592" x2="296" y2="600" style="stroke:black;stroke-width:1" />
+  <line   x1="300" y1="592" x2="303" y2="600" style="stroke:black;stroke-width:1" />
+  <text x="304" y="881" font-family="Verdana" font-size="14">19.25</text>
+ <rect   x="60" y="1147" width="390" height="22" style="fill:none;stroke:green;stroke-width:1" />
+ <rect   x="60" y="870" width="390" height="22" style="fill:none;stroke:green;stroke-width:1" />
+ <rect   x="60" y="585" width="390" height="30" style="fill:none;stroke:green;stroke-width:1" />
+  <line   x1="120" y1="1170" x2="120" y2="1147" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1170" x2="116" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1170" x2="123" y2="1161" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1147" x2="116" y2="1155" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1147" x2="123" y2="1155" style="stroke:black;stroke-width:1" />
+  <text x="124" y="1158" font-family="Verdana" font-size="14">0.75</text>
+  <line   x1="120" y1="1147" x2="120" y2="892" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1147" x2="116" y2="1139" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="1147" x2="123" y2="1139" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="892" x2="116" y2="900" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="892" x2="123" y2="900" style="stroke:black;stroke-width:1" />
+  <text x="124" y="1020" font-family="Verdana" font-size="14">8.50</text>
+  <line   x1="120" y1="892" x2="120" y2="870" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="892" x2="116" y2="884" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="892" x2="123" y2="884" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="870" x2="116" y2="878" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="870" x2="123" y2="878" style="stroke:black;stroke-width:1" />
+  <text x="124" y="881" font-family="Verdana" font-size="14">0.75</text>
+  <line   x1="120" y1="870" x2="120" y2="615" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="870" x2="116" y2="861" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="870" x2="123" y2="861" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="615" x2="116" y2="623" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="615" x2="123" y2="623" style="stroke:black;stroke-width:1" />
+  <text x="124" y="742" font-family="Verdana" font-size="14">8.50</text>
+  <line   x1="120" y1="615" x2="120" y2="585" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="615" x2="116" y2="606" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="615" x2="123" y2="606" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="585" x2="116" y2="593" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="585" x2="123" y2="593" style="stroke:black;stroke-width:1" />
+  <text x="124" y="600" font-family="Verdana" font-size="14">1.00</text>
+ <rect   x="607" y="585" width="45" height="585" style="fill:none;stroke:gray;stroke-width:1" />
+ <rect   x="967" y="585" width="45" height="585" style="fill:none;stroke:gray;stroke-width:1" />
+ <rect   x="600" y="585" width="7" height="585" style="fill:none;stroke:green;stroke-width:1" />
+ <rect   x="1012" y="585" width="7" height="585" style="fill:none;stroke:green;stroke-width:1" />
+ <rect   x="600" y="585" width="420" height="585" style="fill:none;stroke:red;stroke-width:1" />
+  <line   x1="600" y1="570" x2="1020" y2="570" style="stroke:black;stroke-width:1" />
+  <line   x1="600" y1="570" x2="608" y2="566" style="stroke:black;stroke-width:1" />
+  <line   x1="600" y1="570" x2="608" y2="573" style="stroke:black;stroke-width:1" />
+  <line   x1="1020" y1="570" x2="1011" y2="566" style="stroke:black;stroke-width:1" />
+  <line   x1="1020" y1="570" x2="1011" y2="573" style="stroke:black;stroke-width:1" />
+  <text x="810" y="570" font-family="Verdana" text-anchor="middle" font-size="14">14.00</text>
+ <rect   x="60" y="30" width="7" height="412" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="442" y="30" width="7" height="412" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="67" y="30" width="375" height="7" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="60" y="442" width="390" height="7" style="fill:none;stroke:red;stroke-width:1" />
+ <rect   x="67" y="397" width="22" height="45" style="fill:none;stroke:blue;stroke-width:1" />
+ <rect   x="67" y="37" width="22" height="45" style="fill:none;stroke:blue;stroke-width:1" />
+ <rect   x="420" y="397" width="22" height="45" style="fill:none;stroke:blue;stroke-width:1" />
+ <rect   x="420" y="37" width="22" height="45" style="fill:none;stroke:blue;stroke-width:1" />
+  <line   x1="120" y1="442" x2="120" y2="37" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="442" x2="116" y2="434" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="442" x2="123" y2="434" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="37" x2="116" y2="45" style="stroke:black;stroke-width:1" />
+  <line   x1="120" y1="37" x2="123" y2="45" style="stroke:black;stroke-width:1" />
+  <text x="124" y="240" font-family="Verdana" font-size="14">13.50</text>
+  <line   x1="67" y1="300" x2="442" y2="300" style="stroke:black;stroke-width:1" />
+  <line   x1="67" y1="300" x2="75" y2="296" style="stroke:black;stroke-width:1" />
+  <line   x1="67" y1="300" x2="75" y2="303" style="stroke:black;stroke-width:1" />
+  <line   x1="442" y1="300" x2="434" y2="296" style="stroke:black;stroke-width:1" />
+  <line   x1="442" y1="300" x2="434" y2="303" style="stroke:black;stroke-width:1" />
+  <text x="255" y="300" font-family="Verdana" text-anchor="middle" font-size="14">12.50</text>
+  <line   x1="90" y1="420" x2="420" y2="420" style="stroke:black;stroke-width:1" />
+  <line   x1="90" y1="420" x2="98" y2="416" style="stroke:black;stroke-width:1" />
+  <line   x1="90" y1="420" x2="98" y2="423" style="stroke:black;stroke-width:1" />
+  <line   x1="420" y1="420" x2="411" y2="416" style="stroke:black;stroke-width:1" />
+  <line   x1="420" y1="420" x2="411" y2="423" style="stroke:black;stroke-width:1" />
+  <text x="255" y="420" font-family="Verdana" text-anchor="middle" font-size="14">11.00</text>
+  <line   x1="472" y1="450" x2="472" y2="30" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="450" x2="469" y2="441" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="450" x2="475" y2="441" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="30" x2="469" y2="38" style="stroke:black;stroke-width:1" />
+  <line   x1="472" y1="30" x2="475" y2="38" style="stroke:black;stroke-width:1" />
+  <text x="477" y="240" font-family="Verdana" font-size="14">14.00</text>
+ <rect   x="93" y="45" width="322" height="390" style="fill:none;stroke:darkgreen;stroke-width:1" />
+  <line   x1="356" y1="435" x2="356" y2="45" style="stroke:black;stroke-width:1" />
+  <line   x1="356" y1="435" x2="353" y2="426" style="stroke:black;stroke-width:1" />
+  <line   x1="356" y1="435" x2="359" y2="426" style="stroke:black;stroke-width:1" />
+  <line   x1="356" y1="45" x2="353" y2="53" style="stroke:black;stroke-width:1" />
+  <line   x1="356" y1="45" x2="359" y2="53" style="stroke:black;stroke-width:1" />
+  <text x="360" y="240" font-family="Verdana" font-size="14">13.00</text>
+  <line   x1="93" y1="75" x2="416" y2="75" style="stroke:black;stroke-width:1" />
+  <line   x1="93" y1="75" x2="102" y2="71" style="stroke:black;stroke-width:1" />
+  <line   x1="93" y1="75" x2="102" y2="78" style="stroke:black;stroke-width:1" />
+  <line   x1="416" y1="75" x2="407" y2="71" style="stroke:black;stroke-width:1" />
+  <line   x1="416" y1="75" x2="407" y2="78" style="stroke:black;stroke-width:1" />
+  <text x="255" y="75" font-family="Verdana" text-anchor="middle" font-size="14">10.75</text>
+</svg>
+
