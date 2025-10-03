@@ -1,0 +1,49 @@
+    Cad
+        OpenScad
+        OnShape
+
+    3d-printing
+        .stl files
+        filament, resin, metal
+        western maryland works
+
+    electronics
+        meters
+        Ohm's law
+        LEDs
+        IR detectors
+        DC motors
+            BEMF
+        servos
+
+    wheels
+        mecanum
+        2wd vs 4wd
+
+    physics
+        free-body diagrams
+        torque
+        acceleration, speed, position
+
+    processors
+        REV
+        arduino
+        esp32  - wifi/bluetooth
+
+    programming
+        REV
+        C/C++
+        Java
+
+    programming environments
+        Eclipse
+        cygwin
+
+    graphics
+        java
+        X-graph
+        svg
+
+    web
+        .html
+        github
