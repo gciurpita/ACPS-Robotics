@@ -1,0 +1,16 @@
+tools:
+    - tool cabinet
+    - soldering station
+    - 3d printer
+    - voltmeters
+
+parts:
+    - wire
+    - various wire connectors
+    - small slotted screw drivers
+    - smaller 6V battery packs
+
+electronics:
+    - arduinos
+    - motor shields
+    - esp32s
